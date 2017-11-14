@@ -1,0 +1,6 @@
+db.sqlite3
+settings.py
+.vscode
+/static
+__pycache__
+.gitignore
